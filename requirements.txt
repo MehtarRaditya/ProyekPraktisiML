@@ -1,0 +1,13 @@
+# Versi model WAJIB sama dengan saat training (lihat artifacts/metadata.json -> versi_library).
+# Pakai model sendiri dari Colab? Ganti tiga baris ini sesuai metadata.json kalian.
+scikit-learn==1.9.1
+xgboost-cpu==3.4.1  # = xgboost tanpa library GPU (hemat ~350 MB); modulnya tetap `import xgboost`
+pandas==3.1.0
+
+numpy==2.5.4
+joblib==1.6.0
+fastapi==0.162.0
+uvicorn[standard]==0.54.0
+pydantic==2.14.1
+streamlit==1.66.1
+requests==2.34.2

@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+.pytest_cache/
+.ipynb_checkpoints/
+artifact_p2.zip
+.streamlit/secrets.toml
+# JANGAN tambahkan artifacts/ di sini: model.joblib harus ikut di-commit supaya bisa di-deploy
