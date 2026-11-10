@@ -1,0 +1,14 @@
+Feature,Importance
+num__energi_bpfo,0.1696132482660612
+num__frekuensi_dominan_hz,0.15708914282784395
+num__energi_bpfi,0.11641954288605635
+num__energi_bsf,0.09809498675522339
+num__kurtosis,0.09008520539505699
+num__suhu_housing_C,0.06912375495921227
+num__kecepatan_rpm,0.06904954303921171
+num__rms_g,0.05753344686964965
+num__crest_factor,0.055698572673182296
+num__puncak_g,0.05338149878593891
+num__beban_kN,0.05045762620377755
+cat__posisi_sensor_drive_end,0.006784316279559991
+cat__posisi_sensor_fan_end,0.006669115059225699
